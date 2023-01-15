@@ -1,4 +1,4 @@
-# Subnet Calculator
+# IPv4 Subnet Calculator
 
 This script is a simple yet powerful tool for calculating subnets. It uses the built-in 'ipaddress' library to perform various subnetting operations such as finding the network address, broadcast address, and the range of IP addresses within a subnet. It also includes a user-friendly interface that makes it easy to input and process subnet information. Whether you are a network administrator or a student studying networking, this script is a valuable tool to have in your toolbox.
 
